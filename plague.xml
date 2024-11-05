@@ -6,7 +6,7 @@
   <link href="http://example.com/plague.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-10-11T09:41:34.676Z</updated>
+  <updated>2024-11-05T03:57:06.626Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,88 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>面向 OSINT 调查人员的自动命令行身份生成工具</title>
+    <link href="http://example.com/google/8795b201.html"/>
+    <id>http://example.com/google/8795b201.html</id>
+    <published>2024-11-05T03:47:22.000Z</published>
+    <updated>2024-11-05T03:57:06.626Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="Loki框架"><a href="#Loki框架" class="headerlink" title=" Loki框架"></a><a href="https://github.com/malwaredojo/loki"><img src="https://github.com/malwaredojo/loki/raw/main/imgs/loki-logo.png" alt="英特尔盒子"></a> Loki框架</h1><h3 id="面向-OSINT-调查人员的自动命令行身份生成工具"><a href="#面向-OSINT-调查人员的自动命令行身份生成工具" class="headerlink" title="面向 OSINT 调查人员的自动命令行身份生成工具"></a><strong>面向 OSINT 调查人员的自动命令行身份生成工具</strong></h3><p><strong><a href="https://github.com/malwaredojo/loki#installation--usage">安装</a></strong> <strong>•</strong>  <strong><a href="https://github.com/malwaredojo/loki#features">功能</a></strong> <strong>•</strong>  <strong><a href="https://github.com/malwaredojo/loki#contributions--license">贡献</a></strong> <strong>•</strong>  <strong><a href="https://github.com/malwaredojo/loki#future-goals">未来目标</a></strong></p><h1 id="洛基是什么？"><a href="#洛基是什么？" class="headerlink" title="洛基是什么？"></a>洛基是什么？</h1><p><strong>Loki 可以创建一个傀儡身份，您可以使用它来创建虚假的在线状态以开始调查。作为 OSINT、私人或任何其他寻求进行 OSINT 调查的调查员；您需要一个无法追溯到您的傀儡。设置傀儡很容易；只要您知道在哪里寻找。</strong></p><p><strong>Loki 可自动执行此过程，并为您提供创建袜子木偶所需的所有必要细节。Loki 处于开发的初始阶段，随着时间的推移，将添加更多功能。截至 2022 年 10 月 26 日，Loki 不仅能够为您提供详细信息，还能为您提供来自此<a href="https://thispersondoesnotexist.com/">网站</a>的 AI 生成图像。随着项目的继续，将添加更多功能。</strong></p><p><strong>要了解未来目标，<a href="https://github.com/malwaredojo/loki#future-goals">请点击此处</a></strong></p><h1 id="截屏"><a href="#截屏" class="headerlink" title="截屏"></a>截屏</h1><p><a href="https://github.com/malwaredojo/loki/blob/main/imgs/loki-screenshot.png"><img src="https://github.com/malwaredojo/loki/raw/main/imgs/loki-screenshot.png" alt="图像"></a></p><h1 id="安装和使用"><a href="#安装和使用" class="headerlink" title="安装和使用"></a>安装和使用</h1><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">$ git clone https://github.com/malwaredojo/loki.git</span><br><span class="line">$ cd loki/</span><br><span class="line">$ pip3 install -r requirements.txt</span><br><span class="line">$ cd loki</span><br><span class="line">$ sudo python3 loki.py</span><br></pre></td></tr></table></figure><h1 id="特征"><a href="#特征" class="headerlink" title="特征"></a>特征</h1><ul><li>存储在文本文件中的信息</li><li>使用 AI 生成的图像生成信息（此人不存在）</li><li>如果你愿意，可以选择袜子木偶职业</li></ul><h1 id="未来目标"><a href="#未来目标" class="headerlink" title="未来目标"></a>未来目标</h1><p>这是该项目所有未来目标的列表。</p><ul><li>使其独立于发行</li><li>以虚假信息为名自动创建社交媒体账户</li><li>添加性别开关，让框架生成用户希望的信息</li><li>添加根据用户指定的国籍生成信息的功能</li><li>以各种格式（JSON、CSV）保存输出</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="情报" scheme="http://example.com/categories/%E6%83%85%E6%8A%A5/"/>
+    
+    
+    <category term="OSINT" scheme="http://example.com/tags/OSINT/"/>
+    
+    <category term="开源情报" scheme="http://example.com/tags/%E5%BC%80%E6%BA%90%E6%83%85%E6%8A%A5/"/>
+    
+    <category term="虚假在线身份" scheme="http://example.com/tags/%E8%99%9A%E5%81%87%E5%9C%A8%E7%BA%BF%E8%BA%AB%E4%BB%BD/"/>
+    
+    <category term="傀儡" scheme="http://example.com/tags/%E5%82%80%E5%84%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>onion-lookup：Tor 洋葱网站元数据检索</title>
+    <link href="http://example.com/google/bc26ce6b.html"/>
+    <id>http://example.com/google/bc26ce6b.html</id>
+    <published>2024-11-05T03:34:13.000Z</published>
+    <updated>2024-11-05T03:44:21.741Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="onion-lookup：Tor-洋葱网站元数据检索"><a href="#onion-lookup：Tor-洋葱网站元数据检索" class="headerlink" title="onion-lookup：Tor 洋葱网站元数据检索"></a>onion-lookup：Tor 洋葱网站元数据检索</h1><p><a href="https://github.com/ail-project/onion-lookup">Github地址</a></p><p>用于检查 Tor 隐藏服务的存在并检索其相关元数据的软件后端和服务。<br>onion-lookup 依赖于 AIL 实例来获取元数据。<br><img src="/google/bc26ce6b/img.png" alt="img.png"></p><h2 id="onion-lookup-的在线版本"><a href="#onion-lookup-的在线版本" class="headerlink" title="onion-lookup 的在线版本"></a>onion-lookup 的在线版本</h2><p>您可以在以下位置不受限制地在线使用 Onion-Lookup，<br>包括 API：  <a href="https://onion.ail-project.org/%E3%80%82">https://onion.ail-project.org/。</a></p><p>比如我们来监测一下长安不夜城的最近活动<br><img src="/google/bc26ce6b/img.png" alt="img.png"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="工具" scheme="http://example.com/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="tor" scheme="http://example.com/tags/tor/"/>
+    
+    <category term="暗网地址查找" scheme="http://example.com/tags/%E6%9A%97%E7%BD%91%E5%9C%B0%E5%9D%80%E6%9F%A5%E6%89%BE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>TorCrawl：通过 TOR 网络抓取并提取（常规或洋葱）网页</title>
+    <link href="http://example.com/google/389d831b.html"/>
+    <id>http://example.com/google/389d831b.html</id>
+    <published>2024-11-05T03:18:41.000Z</published>
+    <updated>2024-11-05T03:36:19.646Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img src="/google/389d831b/img.png" alt="img.png"></p><h3 id="TorCrawl-py-是一个-Python-脚本，旨在通过-Tor-网络进行匿名网页抓取。"><a href="#TorCrawl-py-是一个-Python-脚本，旨在通过-Tor-网络进行匿名网页抓取。" class="headerlink" title="TorCrawl.py 是一个 Python 脚本，旨在通过 Tor 网络进行匿名网页抓取。"></a>TorCrawl.py 是一个 Python 脚本，旨在通过 Tor 网络进行匿名网页抓取。</h3><p><a href="https://github.com/MikeMeliz/TorCrawl.py">Github链接</a></p><p>它结合了易用性和 Tor 强大的隐私功能，可以实现安全且不可追踪的数据收集。这款工具非常适合新手和经验丰富的程序员，对于数字时代负责任的数据收集至关重要。</p><h3 id="是什么让它变得简单且易于使用？"><a href="#是什么让它变得简单且易于使用？" class="headerlink" title="是什么让它变得简单且易于使用？"></a>是什么让它变得简单且易于使用？</h3><p>如果你是一个终端狂人，你就会知道事情必须简单明了。将输出传递到其他工具是必要的，准确性是关键。</p><p>只需一个参数，您就可以通过 TOR 网络读取 .onion 网页或常规网页，并且通过使用管道，您可以将输出传递到您喜欢的任何其他工具。</p><p><code>$ torcrawl -u http://www.github.com/ | grep &#39;google-analytics&#39; &lt;meta-name=&quot;google-analytics&quot; content=&quot;UA-XXXXXX- &quot;&gt;</code></p><p>如果您想抓取网页的链接，请使用 <strong>BAM</strong><code>-c</code> 并 在文件上获取所有内部链接。您甚至可以使用 它们来抓取它们等等。您还可以使用参数 在下一次抓取之前等待几秒钟。<code>-d``-p</code></p><p><code>$ torcrawl -v -u http://www.github.com/ -c -d 2 -p 2 \# TOR 已准备就绪！ \# URL：http://www.github.com/ \# 您的 IP：XXX.XXX.XXX.XXX \# 爬虫程序从 http://www.github.com/ 开始，深度爬取 2 次，延迟 2 秒： \# 步骤 1 完成，结果为：11 个 \# 步骤 2 完成，结果为：112 个 \# 文件创建于 /path/to/project/links.txt</code></p><p>提示</p><p>抓取并不违法，但侵犯版权 <em>是</em>违法的。在开始抓取网站之前，最好仔细检查网站的条款和条件。有些网站设置了所谓的“ <code>robots.txt</code> 阻止抓取工具访问这些页面”的规则。<br>此抓取工具 <em>可</em> 让您绕过此规则，但我们始终 <em>建议</em> 尊重 robots.txt。</p><hr><h2 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h2><h3 id="使用-pip-轻松安装："><a href="#使用-pip-轻松安装：" class="headerlink" title="使用 pip 轻松安装："></a>使用 pip 轻松安装：</h3><p><em>即将推出..</em></p><h3 id="手动安装："><a href="#手动安装：" class="headerlink" title="手动安装："></a>手动安装：</h3><ol><li><p><strong>克隆此存储库</strong>：<br><code>git clone https://github.com/MikeMeliz/TorCrawl.py.git</code></p></li><li><p><strong>安装依赖项</strong>：<br><code>pip install -r requirements.txt</code></p></li><li><p>安装并启动 TOR 服务</p><p>：</p><ol><li><strong>Debian &#x2F; Ubuntu</strong>：<br><code>apt-get install torservice tor start</code></li><li><strong>Windows</strong>：下载 <a href="https://www.torproject.org/download/tor/"><code>tor.exe</code></a>，然后：<br><code>tor.exe --service installtor.exe --service start</code></li><li><strong>MacOS</strong>：<br><code>brew install torbrew services start tor</code></li><li>对于不同的发行版，请访问：<br><a href="https://www.torproject.org/docs/">TOR 设置文档</a></li></ol></li></ol><h2 id="参数"><a href="#参数" class="headerlink" title="参数"></a>参数</h2><table><thead><tr><th align="left"><strong>命令</strong></th><th align="left"><strong>长命令</strong></th><th align="left"><strong>描述</strong></th></tr></thead><tbody><tr><td align="left"><strong>一般的</strong>：</td><td align="left"></td><td align="left"></td></tr><tr><td align="left">-h</td><td align="left">–help</td><td align="left">帮助信息</td></tr><tr><td align="left">-v</td><td align="left">–verbose</td><td align="left">显示更多有关进度的信息</td></tr><tr><td align="left">-u</td><td align="left">–url *.onion</td><td align="left">要抓取或提取的网页 URL</td></tr><tr><td align="left">-w</td><td align="left">–without</td><td align="left">不使用 TOR 网络</td></tr><tr><td align="left">-f</td><td align="left">–folder</td><td align="left">包含生成文件的目录</td></tr><tr><td align="left"><strong>提取</strong>：</td><td align="left"></td><td align="left"></td></tr><tr><td align="left">-e</td><td align="left">–extract</td><td align="left">将页面代码提取到终端或文件（默认：终端）</td></tr><tr><td align="left">-i</td><td align="left">–input filename</td><td align="left">输入文件及 URL（以行分隔）</td></tr><tr><td align="left">-o</td><td align="left">–output [filename]</td><td align="left">将页面输出至文件（一页）</td></tr><tr><td align="left">-y</td><td align="left">–yara</td><td align="left">执行 yara 关键字搜索： h &#x3D; 搜索整个 html 对象， t &#x3D; 仅搜索文本</td></tr><tr><td align="left"><strong>抓取</strong>：</td><td align="left"></td><td align="left"></td></tr><tr><td align="left">-c</td><td align="left">–crawl</td><td align="left">抓取网站 (默认输出在 website&#x2F;links.txt)</td></tr><tr><td align="left">-d</td><td align="left">–cdepth</td><td align="left">设置爬行器行进的深度（默认值：1）</td></tr><tr><td align="left">-p</td><td align="left">–pause</td><td align="left">请求之间的暂停秒数（默认值：0）</td></tr><tr><td align="left">-l</td><td align="left">–log</td><td align="left">包含访问过的 URL 及其响应代码的日志文件</td></tr></tbody></table><h2 id="用法和示例"><a href="#用法和示例" class="headerlink" title="用法和示例"></a>用法和示例</h2><h3 id="作为提取器："><a href="#作为提取器：" class="headerlink" title="作为提取器："></a>作为提取器：</h3><p>只需将单个网页提取到终端：</p><p><code>$ python torcrawl.py -u http://www.github.com</code></p><p>无需使用 TOR 即可提取到文件（github.htm）：</p><p><code>$ python torcrawl.py -w -u http://www.github.com -o github.htm</code><br>## 在 &#x2F;script&#x2F;path&#x2F;github.htm 创建文件</p><p>解压到终端，只找到包含 google-analytics 的行：</p><p><code>$ python torcrawl.py -u http://www.github.com | grep &#39;google-analytics&#39;</code><br> <code>&lt;meta name=&quot;google-analytics&quot; content=&quot;UA-*******-*&quot;&gt;</code></p><p>提取到文件并使用 yara 仅找到包含 google-analytics 的行：</p><p><code>$ python torcrawl.py -v -w -u https://github.com -e -y 0</code><br>…</p><p>*<strong>注意：*</strong> 更新 res&#x2F;keyword.yar 以搜索其他关键字。 <code>-y 0</code> 用于原始 html 搜索和 <code>-y 1</code> 文本搜索。</p><p>提取一组网页（从文件导入）到终端：</p><p><code>$ python torcrawl.py -i links.txt</code><br>…</p><h3 id="作为爬虫："><a href="#作为爬虫：" class="headerlink" title="作为爬虫："></a>作为爬虫：</h3><p>无需使用 TOR 即可抓取网页链接，并显示详细输出（非常有用）：</p><p><code>$ python torcrawl.py -v -w -u http://www.github.com/ -c</code><br>## URL: <a href="http://www.github.com/">http://www.github.com/</a><br>## 您的 IP: <em>.</em>.<em>.</em><br>## 爬虫程序从 <a href="http://www.github.com/">http://www.github.com/</a> 开始执行步骤 1 并等待 0<br>## 步骤 1 完成，结果为：11<br>## 文件创建于 &#x2F;script&#x2F;path&#x2F;links.txt</p><p>以深度 2（2 次点击）爬取网页，并等待 5 秒再爬取下一页：</p><p><code>$ python torcrawl.py -v -u http://www.github.com/ -c -d 2 -p 5</code><br>## TOR 已准备就绪！<br>## URL：<a href="http://www.github.com/">http://www.github.com/</a><br>## 您的 IP：*.<em>.</em>.*<br>## 爬虫程序从 <a href="http://www.github.com/">http://www.github.com</a> 开始执行第 2 步并等待 5<br>## 第 1 步完成，得到 11 个结果<br>## 第 2 步完成，得到 112 个结果<br>## 文件已在 &#x2F;script&#x2F;path&#x2F;links.txt 上创建</p><h3 id="作为两者："><a href="#作为两者：" class="headerlink" title="作为两者："></a>作为两者：</h3><p>您可以使用单个命令抓取页面并将网页提取到文件夹中：</p><p><code>$ python torcrawl.py -v -u http://www.github.com/ -c -d 2 -p 5 -e</code><br>## TOR 已准备就绪！<br>## URL：<a href="http://www.github.com/">http://www.github.com/</a><br>## 您的 IP：*.<em>.</em>.*<br>## 爬虫程序从 <a href="http://www.github.com/">http://www.github.com</a> 开始执行步骤 1，等待 5<br>## 步骤 1 完成，结果为：11<br>## 文件创建于 &#x2F;script&#x2F;path&#x2F;FolderName&#x2F;index.htm<br>## 文件创建于 &#x2F;script&#x2F;path&#x2F;FolderName&#x2F;projects.html<br>## …</p><p><em><strong>注意：</strong></em> <em>爬虫链接的默认（目前唯一）文件是 <code>links.txt</code> 文档。此外，要在爬取后立即提取，您必须提供 <code>-e</code> 参数</em></p><p>遵循相同的逻辑；您可以将所有这些页面解析为 grep（例如）并搜索特定文本：</p><p><code>$ python torcrawl.py -u http://www.github.com/ -c -e | grep &#39;&lt;/html&gt;&#39;</code></p>...<h3 id="两者-关键字搜索："><a href="#两者-关键字搜索：" class="headerlink" title="两者 + 关键字搜索："></a>两者 + 关键字搜索：</h3><p>您可以使用单个命令抓取页面、执行关键字搜索并将与结果匹配的网页提取到文件夹中：</p><p><code>$ python torcrawl.py -v -u http://www.github.com/ -c -d 2 -p 5 -e -yh</code><br>## TOR 已准备就绪！<br>## URL：<a href="http://www.github.com/">http://www.github.com/</a><br>## 您的 IP：*.<em>.</em>.*<br>## 爬虫程序从 <a href="http://www.github.com/">http://www.github.com</a> 开始执行步骤 1，等待 5<br>## 步骤 1 完成，结果为：11<br>## 文件创建于 &#x2F;script&#x2F;path&#x2F;FolderName&#x2F;index.htm<br>## 文件创建于 &#x2F;script&#x2F;path&#x2F;FolderName&#x2F;projects.html<br>## …</p><p><em><strong>注意：</strong></em> <em>更新 res&#x2F;keyword.yar 以搜索其他关键字。 仅<code>-y h</code> 用于原始 html 搜索和 <code>-y t</code> 文本搜索。</em></p><h2 id="演示"><a href="#演示" class="headerlink" title="演示"></a>演示</h2><p><a href="https://darkwebinformer.com/content/images/2024/10/8732872532.gif"><img src="https://darkwebinformer.com/content/images/2024/10/8732872532.gif" alt="img"></a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="工具" scheme="http://example.com/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="爬虫" scheme="http://example.com/tags/%E7%88%AC%E8%99%AB/"/>
+    
+    <category term="tor" scheme="http://example.com/tags/tor/"/>
+    
+  </entry>
   
   <entry>
     <title>云靶场</title>
